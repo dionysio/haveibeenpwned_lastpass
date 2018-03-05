@@ -1,0 +1,10 @@
+certifi==2018.1.18
+chardet==3.0.4
+idna==2.6
+lastpass-python==0.3.0
+pycryptodome==3.4.11
+python-dateutil==2.6.1
+requests==2.18.4
+requests-cache==0.4.13
+six==1.11.0
+urllib3==1.22
