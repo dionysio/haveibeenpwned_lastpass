@@ -12,7 +12,7 @@ What this script does:
 
 1. install Python 3
 2. install all the dependencies with `pip install -r requirements.txt`
-3. run `python have_i_thouh.py` and go through the interactive prompt
+3. run `python have_i_though.py` and go through the interactive prompt
 
 ## Acknowledgments
 
