@@ -18,6 +18,8 @@ def have_i_though():
         total = rd(seconds=number_of_accounts * 1.5 * len(mode))
         print('''Be patient please, it will take approx. {0.hours} hours {0.minutes} minutes {0.seconds} seconds to query for of your {1} entries.'''.format(total, number_of_accounts))
 
+        success, fail = _have_i_though(vault, mode)
+
     except:
         print('Unexpected error occurred:')
         traceback.print_exc()
