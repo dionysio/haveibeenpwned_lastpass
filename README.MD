@@ -1,5 +1,7 @@
 # haveibeenpwned_lastpass
 
+Passwords are not sent from your host machine. [This article](https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2#cloudflareprivacyandkanonymity) explains the process by which the passwords are checked 
+
 Website https://haveibeenpwned.com provides a way for you to check whether some of your passwords/usernames were leaked during one of the many breaches of online services.
 If you are like me, you have a LastPass account with way too many random passwords to check them manually. 
 What this script does:
